@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
-#gamepad-0 {
-    background: url('https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png') !important;
+.controller.edit {
+    background: url(xboxsx.png) !important;
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
