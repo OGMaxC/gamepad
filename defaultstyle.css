@@ -193,8 +193,8 @@ strong {
 }
 
 /*BEGIN Xbox One Controller Styling*/
-.controller.xbox {
-    background: url(https://gamepadviewer.com/xbox-assets/base.svgz);
+.controller.custom {
+    background: url(https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png) !important;
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
