@@ -1,5 +1,5 @@
 .controller.xbox {
-    background: url(https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png);
+    background: url("https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png");
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
