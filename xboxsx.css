@@ -1,4 +1,11 @@
 /*BEGIN Xbox One Controller Styling*/
+.controller.custom {
+    background: url(https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png) !important;
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
 .controller.xbox {
     background: url(https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png) !important;
     height: 630px;
@@ -6,7 +13,6 @@
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
-
 
 
 .xbox.white {
