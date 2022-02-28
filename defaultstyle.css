@@ -194,7 +194,7 @@ strong {
 
 /*BEGIN Xbox One Controller Styling*/
 .custom {
-    background: url(https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png) !important;
+    background: url(xboxsx.png) !important;
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -202,14 +202,14 @@ strong {
 }
 
 .xbox {
-    background: url(https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png) !important;
+    background: url(xboxsx.png) !important;
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
 .controller.xbox {
-    background: url(https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png) !important;
+    background: url(xboxsx.png) !important;
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -217,11 +217,11 @@ strong {
 }
 
 .xbox.white {
-    background: url(https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png);
+    background: url(xboxsx.png);
 }
 
 .xbox.disconnected {
-    background: url(https://raw.githubusercontent.com/OGMaxC/gamepad/main/xboxsx.png);
+    background: url(xboxsx.png);
 }
 
 .xbox.disconnected div {
